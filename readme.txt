@@ -5,7 +5,7 @@ Requires at Least: 2.6
 Tested Up To: 4.1
 Stable tag: trunk
 
-Because of some terrorist acts, you can now show your support to Charlie Hebdo by putting a ribbon that says "#JeSuisCharlie" on your WordPress site.
+Because of some terrorist acts, you can now show your support to Charlie Hebdo by putting a ribbon that says "#JeSuisCharlie" on your site.
 
 == Description ==
 

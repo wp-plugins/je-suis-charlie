@@ -11,6 +11,8 @@ Because of some terrorist acts, you can now show your support to Charlie Hebdo b
 
 A black ribbon with the words "#JeSuisCharlie" will be put on in the top right or left (contains 2 plugin files) corner of your website, linking to the [twitter hashtag](http://twitter.com/#jesuischarlie). Look at the screenshots to see how the ribbon looks. Thank you for showing your support.
 
+[DotClear version](http://plugins.dotaddict.org/dc2/details/jesuischarlie) of this plugin for your friend.
+
 == Installation ==
 
 1. Download the plugin zip archive.
